@@ -1,0 +1,13 @@
+# This is the template CODEOWNERS file for UW-Finance-SDA
+# Use hashtag in the front of the line to comment
+# Written by Euntae Ki
+
+# Global owners of the repository
+*							@paulschurr
+
+# Dev/Eval/Prod owners of the repository
+/env/*						@changhaitravis
+
+# Branch specific owner
+/BranchProtection/Test1		@EuntaeKi
+/BranchProtection/Test2		@UW-Finance-SDA/front-end-developers
