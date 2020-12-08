@@ -2,12 +2,8 @@
 # Use hashtag in the front of the line to comment
 # Written by Euntae Ki
 
-# Global owners of the repository
-*							@paulschurr
+# Global owners of the branch
+*				@EuntaeKi
 
-# Dev/Eval/Prod owners of the repository
-/env/*						@changhaitravis
-
-# Branch specific owner
-/BranchProtection/Test1		@EuntaeKi
-/BranchProtection/Test2		@UW-Finance-SDA/front-end-developers
+# Folder specific owner
+/Test/*			@changhaitravis @apache78
