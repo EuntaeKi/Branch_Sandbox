@@ -3,7 +3,7 @@
 # Written by Euntae Ki
 
 # Global owners of the branch
-*				@EuntaeKi
+*				@apache78
 
 # Folder specific owner
-/Test/*			@changhaitravis @apache78
+/Test/*			@EuntaeKi
